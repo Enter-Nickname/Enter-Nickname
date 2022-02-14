@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 
-## 내가 흥미로워 하는것들
+## 
 
 - JavaScript
 - TypeScript
 - Python
 
-## 스탯
+## 
 <!--[![EnterNickname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enter-Nickname&show_icons=true&theme=dark)](https://github.com/Enter-Nickname)-->
 <a href="https://github.com/Enter-Nickname"><img src="https://github-readme-stats.vercel.app/api?username=Enter-Nickname&bg_color=15,ff0000,000000&title_color=fff&text_color=fff&count_private=true&show_icons=true"/></a>
 
-## 언어
+## 
 <a href="https://github.com/Enter-Nickname"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enter-Nickname&layout=compact&bg_color=15,ff0000,000000"/></a>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadami-io&layout=compact)](https://github.com/dadami-io)-->
 
