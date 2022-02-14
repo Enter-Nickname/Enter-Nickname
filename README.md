@@ -2,8 +2,7 @@
 
 
 <!--[![EnterNickname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enter-Nickname&show_icons=true&theme=dark)](https://github.com/Enter-Nickname)-->
-<a href="https://github.com/Enter-Nickname"><img src="https://github-readme-stats.vercel.app/api?username=Enter-Nickname&show_icons=true&theme=dark"/></a>
-
+<a href="https://github.com/Enter-Nickname"><img src="https://github-readme-stats.vercel.app/api?username=DeltaLaboratory&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true"/></a>
 <!--
 **Enter-Nickname/Enter-Nickname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
