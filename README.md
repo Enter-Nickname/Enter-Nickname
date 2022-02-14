@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![EnterNickname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enter-Nickname&show_icons=true&theme=dark)
+
 <!--
 **Enter-Nickname/Enter-Nickname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
