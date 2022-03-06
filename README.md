@@ -5,6 +5,8 @@
 
 - JavaScript
 - TypeScript
+- C
+- C++
 - Python
 
 ## 
